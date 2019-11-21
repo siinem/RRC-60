@@ -10,4 +10,5 @@ A subset of the dataset images can be reached from https://drive.google.com/open
 
 
 [1] S. Aslan,  S. Vascon,  and M. Pelillo.   Ancient coin classification usinggraph transduction games.2018 IEEE Int. Conf. on Metrology for Ar-chaeology and Cultural Heritage, 2018 (In Press).
+
 [2] S. Zambanini and M. Kampel.  Coarse-to-fine correspondence search forclassifying ancient coins. InAsian Conference on Computer Vision, pages25–36, 2012

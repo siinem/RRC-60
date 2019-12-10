@@ -8,6 +8,10 @@ Dataset images can be reached from https://drive.google.com/open?id=16EpvOJQe0Z-
 If you use RRC-60 dataset, please cite to  <a href="https://www.sciencedirect.com/science/article/pii/S0167865519303708"> Aslan, Sinem, Sebastiano Vascon, and Marcello Pelillo. "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." Pattern Recognition Letters (2019) </a>
 
 
+
+
+------------------------------
+
 [1] S. Aslan,  S. Vascon,  and M. Pelillo.   Ancient coin classification usinggraph transduction games.2018 IEEE Int. Conf. on Metrology for Ar-chaeology and Cultural Heritage, 2018 (In Press).
 
 [2] S. Zambanini and M. Kampel.  Coarse-to-fine correspondence search forclassifying ancient coins. InAsian Conference on Computer Vision, pages25–36, 2012

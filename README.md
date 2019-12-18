@@ -12,6 +12,6 @@ If you use RRC-60 dataset, please cite to  <a href="https://www.sciencedirect.co
 
 ------------------------------
 
-[1] S. Aslan,  S. Vascon,  and M. Pelillo.   Ancient coin classification usinggraph transduction games.2018 IEEE Int. Conf. on Metrology for Ar-chaeology and Cultural Heritage, 2018 (In Press).
+[1] S. Aslan,  S. Vascon,  and M. Pelillo.   Ancient coin classification usinggraph transduction games.2018 IEEE Int. Conf. on Metrology for Archaeology and Cultural Heritage, 2018 (In Press).
 
-[2] S. Zambanini and M. Kampel.  Coarse-to-fine correspondence search forclassifying ancient coins. InAsian Conference on Computer Vision, pages25–36, 2012
+[2] S. Zambanini and M. Kampel.  Coarse-to-fine correspondence search forclassifying ancient coins. In Asian Conference on Computer Vision, pages25–36, 2012

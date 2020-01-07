@@ -13,7 +13,7 @@ In the creation of this dataset we referred to a previous public dataset of [2] 
 |Intra-class variations in RRC-60 due to illumination differences, degradations and dirt on the surfaces of the coins. Each row depicts images of observe-side and reverse-side of three coins selected from the same class. |
 |:--:| 
 |![degradations_3](https://user-images.githubusercontent.com/7011371/71903543-9b498a00-3164-11ea-8508-3d72e13cc05f.png)|
-| First row: Class 60 (Cra489/5-6); Second row: Class 59 (Cra 489/2-3); and Third row: Class 53 (Cra 543/1).|
+| <b>First row:</b> Class 60 (Cra489/5-6); <b>Second row:</b> Class 59 (Cra 489/2-3); and <b>Third row:</b> Class 53 (Cra 543/1).|
 
  
 

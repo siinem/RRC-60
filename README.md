@@ -26,7 +26,7 @@ Codes of the experiments on RRC-60 dataset are presented in the repository.
 
 If you use RRC-60 dataset and the codes, please cite to: 
 
-Sinem Aslan, Sebastiano Vascon, and Marcello Pelillo. "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." Pattern Recognition Letters (2019) (In Press) [ <a href="https://doi.org/10.1016/j.patrec.2019.12.007"> Preprint </a> ]
+Sinem Aslan, Sebastiano Vascon, and Marcello Pelillo. "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." Pattern Recognition Letters (2019) (In Press) 
 
 
 

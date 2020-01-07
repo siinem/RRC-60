@@ -1,3 +1,6 @@
+% Written by Sebastiano Vascon
+
+
 function [HC,P] = gtg(R, P, maxIter, maxDiff)
 %% GTNMF Game theoretic NMF clustering refiner
 %

@@ -15,9 +15,10 @@ In the creation of this dataset we referred to a previous public dataset of [2] 
 |![degradations_3](https://user-images.githubusercontent.com/7011371/71903543-9b498a00-3164-11ea-8508-3d72e13cc05f.png)|
 | <b>First row:</b> Class 60 (Cra489/5-6); <b>Second row:</b> Class 59 (Cra 489/2-3); and <b>Third row:</b> Class 53 (Cra 543/1).|
 
-|![interclass-1](https://user-images.githubusercontent.com/7011371/71904186-f16afd00-3165-11ea-8270-2416d344ab44.png)|
+|Inter-class variation in RRC-60. |
 |:--:| 
-| Examples to low inter-class variation in RRC-60. Left to Right: Observe and Reverse side images of a coin selected from Class 1 (Cra 387/1), Class 2 (Cra 300/1), Class 13 (Cra 352/1a-c), Class 16 (Cra 275/1), and Class 17 (273/1). |
+|![interclass-1](https://user-images.githubusercontent.com/7011371/71904186-f16afd00-3165-11ea-8270-2416d344ab44.png)|
+|Left to Right: Observe and Reverse side images of a coin selected from Class 1 (Cra 387/1), Class 2 (Cra 300/1), Class 13 (Cra 352/1a-c), Class 16 (Cra 275/1), and Class 17 (273/1). |
 
 
 

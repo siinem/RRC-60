@@ -1,12 +1,16 @@
 # RRC-60
 This repository is created to publish the <i>Roman Republican Coins</i> - 60 (RRC-60) dataset and experimental settings that we followed in our paper <a href="https://www.sciencedirect.com/science/article/pii/S0167865519303708"> Sinem Aslan, Sebastiano Vascon, and Marcello Pelillo. "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." Pattern Recognition Letters (2019) </a>
 
-In the creation of this dataset we referred to a previous public dataset of [2] with 180 images of reverse (motif) sides of 60 coin types from Roman Republican period which we also experimented on at [1]. Thus, abiding by the same coin types with [2] we created a new dataset with larger quantity and diversity, i.e. we collected 100 images for each side of the 60 coin types, which in the end resulted with 6000 image pairs for each coin specimen. 
+In the creation of this dataset we referred to a previous public dataset of [2] with 180 images of reverse (motif) sides of 60 coin types from Roman Republican period which we also experimented on at [1]. Thus, abiding by the same coin types with [2] (except five types shown below) we created a new dataset with larger quantity and diversity, i.e. we collected 100 images for each side of the 60 coin types, which in the end resulted with 6000 image pairs for each coin specimen. Images are collected from <a href = 'https://www.acsearch.info/'>acsearch.info</a> and <a href = 'http://numismatics.org/crro/'>Coinage of the Roman Republic Online (CRRO)</a>. Since we could not reach sufficient quantity of images for a few classes of [2], by discarding those types we selected another five coin types from Republican Rome which look quite similar to the previous ones. Exchanged classes are shown below. 
 
-![changed_classes](https://user-images.githubusercontent.com/7011371/71901503-620f1b00-3160-11ea-866a-e431c89ee098.png)
+| ![changed_classes](https://user-images.githubusercontent.com/7011371/71901503-620f1b00-3160-11ea-866a-e431c89ee098.png)| 
+|:--:| 
+| Observe-side and reverse-side images of a coin selected from five replaced classes of the dataset in [2]. First row: Classes of the dataset in [2], Second row: New classes in RRC-60 dataset. First column: 258/1 (Caesar) and- 257/1 (Vargunteius), Second column.: 370/1a-b (Serveilius) and- 264/1 (Serveilius), Third column.: 169/1 (Anonymious) and- 219/1a-e (Antestius), Fourth column.: 451/1 (Pansa) and- 449/1a (Pansa), Fifth column.: 462/1a-c (Cato) and- 343/1c (Cato). |
 
 
-Images are collected from <a href = 'https://www.acsearch.info/'>acsearch.info</a> and <a href = 'http://numismatics.org/crro/'>Coinage of the Roman Republic Online (CRRO)</a>. In spite of we aimed to abide by the coin types of [2], we could not reach sufficient quantity of images for a few classes of [2], e.g. we could only reach to 40 images for 258/1 (class 4), 194 30 images for 370/1a-b (class 5), 11 images for 169/1 (class 15), 195 46 images for 451/1 (class 44), and 41 images for 462/1a-c (class 196 55). Thus, by discarding those types we selected another five coin 197 types from Republican Rome which look quite similar to the previous ones. 
+
+
+ 
 
 
 

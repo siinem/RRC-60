@@ -5,7 +5,8 @@ In the creation of this dataset we referred to a previous public dataset of [2] 
 
 | ![changed_classes](https://user-images.githubusercontent.com/7011371/71901503-620f1b00-3160-11ea-866a-e431c89ee098.png)| 
 |:--:| 
-| First row: Classes of the dataset in [2], Second row: New classes in RRC-60 dataset. First column: 258/1 (Caesar) and- 257/1 (Vargunteius), Second column.: 370/1a-b (Serveilius) and- 264/1 (Serveilius), Third column.: 169/1 (Anonymious) and- 219/1a-e (Antestius), Fourth column.: 451/1 (Pansa) and- 449/1a (Pansa), Fifth column.: 462/1a-c (Cato) and- 343/1c (Cato). |
+| First row: Classes of the dataset in [2], Second row: New classes in RRC-60 dataset. |
+| First column: 258/1 (Caesar) and- 257/1 (Vargunteius), Second column.: 370/1a-b (Serveilius) and- 264/1 (Serveilius), Third column.: 169/1 (Anonymious) and- 219/1a-e (Antestius), Fourth column.: 451/1 (Pansa) and- 449/1a (Pansa), Fifth column.: 462/1a-c (Cato) and- 343/1c (Cato). |
 
 
 

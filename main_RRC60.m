@@ -3,15 +3,12 @@
 % Copyright 2019 Sinem Aslan.  [sinem.aslan-at-unive.it]
 % Please email me if you have any questions.
 %
-% Please cite to these papers:
+% Please cite to:
 %
-% [1] S. Aslan, S. Vascon, and M. Pelillo, 
+% S. Aslan, S. Vascon, and M. Pelillo, 
 % "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." 
 % Pattern Recognition Letters (2019) (In Press).
-%
-% [2] S. Aslan, S. Vascon, M. Pelillo,
-% Ancient coin classification using graph transduction games
-% 2018 IEEE Int. Conf. on Metrology for Archaeology and Cultural Heritage (2018 (In Press))
+
 
 %--------------------------------------------------------------------------
 function main_RRC60

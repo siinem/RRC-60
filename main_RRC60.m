@@ -22,7 +22,7 @@ coin_sides = {'O','R','B'}; % O: Observe; R: Reverse; B: Both
 param.dataFolder = './Data';
 
 param.nr_classes = 60; % Number of coin classes
-param.num_trials = 5;  % All experiments are repeated for 5 trials, mean and std of all will be presented.
+param.num_trials = 5;  % All experiments are repeated for 5 trials, mean and std of all trials will be presented.
 param.set        = [1:10,15:5:20,30:10:80]; % Number of labeled images per class
 param.alphas     = 0.1:0.1:0.9; % the range where alpha, the convex combination parameter, is tuned 
 

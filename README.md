@@ -28,7 +28,7 @@ If you use the RRC-60 dataset and the codes, please cite to [1].
 
 ------------------------------
 
-[1] Sinem Aslan, Sebastiano Vascon, and Marcello Pelillo. "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." Pattern Recognition Letters, Vol. 131, pp. 158-165, 2020. [ <a href="https://doi.org/10.1016/j.patrec.2019.12.007"> Preprint </a> ]
+[1] Sinem Aslan, Sebastiano Vascon, and Marcello Pelillo. "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." Pattern Recognition Letters, Vol. 131, pp. 158-165, 2020. [ <a href="https://doi.org/10.1016/j.patrec.2019.12.007"> Pdf </a> ]
 
 [2] S. Zambanini and M. Kampel.  Coarse-to-fine correspondence search forclassifying ancient coins. In Asian Conference on Computer Vision, pages25–36, 2012 [ <a href="https://link.springer.com/chapter/10.1007/978-3-642-37484-5_3"> Pdf </a> ]
 

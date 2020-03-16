@@ -7,7 +7,7 @@
 %
 % S. Aslan, S. Vascon, and M. Pelillo, 
 % "Two Sides of the Same Coin: Improved Ancient Coin Classification Using Graph Transduction Games." 
-% Pattern Recognition Letters (2019) (In Press).
+% Pattern Recognition Letters 131 (2020): 158-165.
 % https://doi.org/10.1016/j.patrec.2019.12.007
 
 

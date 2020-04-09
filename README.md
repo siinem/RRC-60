@@ -24,7 +24,7 @@ Dataset images (around 4GB) can be reached from https://drive.google.com/file/d/
 
 Codes of the experiments on RRC-60 dataset are presented in the repository.
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `NEW!`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=NEW!) `Trained models are added to the Data folder `
 
 
 If you use the RRC-60 dataset and the codes, please cite to [1]. 

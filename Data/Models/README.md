@@ -1,6 +1,6 @@
 Trained models (using 80 training images per class) can be downloaded from following links (each is around 233MB):
 
-- <sub> Resnet152_side_O_trial_1_numlabeled_80 : https://drive.google.com/file/d/1oxOPuchD6pDJ3cfREWuvxamEdtnoetV-/view?usp=sharing </sub> 
+- Resnet152_side_O_trial_1_numlabeled_80 : <sub> https://drive.google.com/file/d/1oxOPuchD6pDJ3cfREWuvxamEdtnoetV-/view?usp=sharing </sub> 
 - Resnet152_side_O_trial_2_numlabeled_80 : https://drive.google.com/file/d/1l-3PpGF1t-BsNv8lw0dWPKiAADp86-aZ/view?usp=sharing
 - Resnet152_side_O_trial_3_numlabeled_80 : https://drive.google.com/file/d/1JLZ_XnrJRj6GZtD1HCZwQ9D6tPgS3Bbx/view?usp=sharing
 - Resnet152_side_O_trial_4_numlabeled_80 : https://drive.google.com/file/d/1_5lHnmqOgK11M9yK6A0w8UnYUnRSspzu/view?usp=sharing

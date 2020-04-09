@@ -25,7 +25,7 @@ Dataset images (around 4GB) can be reached from https://drive.google.com/file/d/
 Codes of the experiments on RRC-60 dataset are presented in the repository.
 
 ```diff
-- UPDATE on 09.04.2020 
+- UPDATE [09.04.2020] 
 - Trained models are added into /Data/Models
 - Category specifications are published at /Data/RRC60_catalogue.xlsx
 ```

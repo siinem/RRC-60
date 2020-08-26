@@ -20,7 +20,7 @@ In the creation of this dataset we referred to a previous public dataset of [2] 
 |Left to Right: Observe and Reverse side images of a coin selected from <b>Class 1</b> (Cra 387/1), <b>Class 2</b> (Cra 300/1), <b>Class 13</b> (Cra 352/1a-c), <b>Class 16</b> (Cra 275/1), and <b>Class 17</b> (273/1). |
 
 
-Dataset images (around 4GB) can be reached from https://drive.google.com/file/d/16EpvOJQe0Z-Zbv0SD_4igc_nY94WcaTj/view?usp=sharing
+Dataset images (around 4GB) can be reached from https://drive.google.com/file/d/1aG90R_09rUe1S0qXrs3cmFnLMm9jywMU/view?usp=sharing
 
 Codes of the experiments on RRC-60 dataset are presented in the repository.
 
@@ -28,6 +28,9 @@ Codes of the experiments on RRC-60 dataset are presented in the repository.
 - UPDATE [09.04.2020] 
 - Trained models are added into /Data/Models
 - Category specifications are published at /Data/RRC60_catalogue.xlsx
+- ----
+- UPDATE [26.08.2020] 
+- Links are updated
 ```
 
 

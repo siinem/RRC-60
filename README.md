@@ -28,9 +28,6 @@ Codes of the experiments on RRC-60 dataset are presented in the repository.
 - UPDATE [09.04.2020] 
 - Trained models are added into /Data/Models
 - Category specifications are published at /Data/RRC60_catalogue.xlsx
-- ----
-- UPDATE [26.08.2020] 
-- Links are updated
 ```
 
 
